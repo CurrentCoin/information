@@ -1,0 +1,2 @@
+# information
+About CurrentCoin.
