@@ -1,5 +1,8 @@
 # Information
 
+Overview
+------
+
 CurrentCoin is dedicated to providing fast and convenient token-based digital services.
 
 Out contributors come from all over the world, but our home base is in San Francisco, California.
@@ -12,7 +15,9 @@ Use the prototype:
 
 http://current-coin.us-east-2.elasticbeanstalk.com/
 
-You can also read more about us, or reach out to us in person, using the links below.
+Channels
+------
+You can also read more about us, or reach out to us in person, through our channels.
 
 Medium
 https://medium.com/currentcoin
