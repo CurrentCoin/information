@@ -47,7 +47,7 @@ https://github.com/CurrentCoin
 Templates
 ------
 
-Anyone can create a new template. The [brand page template](https://github.com/CurrentCoin/template-brand-page) and the [info spinner template](https://github.com/CurrentCoin/template-info-spinner) are examples of CurrentCoin templates.
+Most users will use pre-made templates, but anyone can create a new template. The [brand page template](https://github.com/CurrentCoin/template-brand-page) and the [info spinner template](https://github.com/CurrentCoin/template-info-spinner) are examples of CurrentCoin templates.
 
 A valid CurrentCoin template must have the following:
 
