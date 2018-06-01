@@ -46,3 +46,16 @@ https://github.com/CurrentCoin
 
 Telegram
 https://t.me/currentcoinchannel
+
+=======
+Templates
+------
+
+Most users use pre-made templates, but anyone can create a new template. The [brand page template](https://github.com/CurrentCoin/template-brand-page) and the [info spinner template](https://github.com/CurrentCoin/template-info-spinner) are examples of CurrentCoin templates.
+
+A valid CurrentCoin template must have the following:
+
+- A file named `interface.json` which specifies user adjustable parameters, their type, and default values.
+- A file named `index.js` which exports a React component. This component must accept the user adjustable parameters as props. 
+
+See the examples for the specifics of how the `interface.json` file is structured.
