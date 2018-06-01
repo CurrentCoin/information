@@ -47,7 +47,6 @@ https://github.com/CurrentCoin
 Telegram
 https://t.me/currentcoinchannel
 
-=======
 Templates
 ------
 
