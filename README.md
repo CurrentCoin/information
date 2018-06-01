@@ -44,6 +44,10 @@ https://discord.gg/8YQMWp
 GitHub
 https://github.com/CurrentCoin
 
+Telegram
+https://t.me/currentcoinchannel
+
+=======
 Templates
 ------
 
