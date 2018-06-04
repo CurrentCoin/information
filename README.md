@@ -58,3 +58,15 @@ A valid CurrentCoin template must have the following:
 - A file named `index.js` which exports a React component. This component must accept the user adjustable parameters as props. 
 
 See the examples for the specifics of how the `interface.json` file is structured.
+
+To test your template within CurrentCoin Create, clone the `currentcoin-prototype` repo and put your template in the folder `web-app/src/servicePreviews` alongside the other templates.
+
+Start the web-app by running
+
+`cd web-app`
+
+`npm install`
+
+`npm start`
+
+Now you can test out your template in the browser. Note that the deploy feature will not work because your template is not yet part of the CurrentCoin system. Make a pull request, and if approved, your template will be available to anyone to deploy a live version.
