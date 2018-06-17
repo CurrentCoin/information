@@ -17,7 +17,7 @@ https://currentcoin.io/static/media/currentcoint_whitepaper.2e484792.pdf
 
 Use the prototype:
 
-http://current-coin.us-east-2.elasticbeanstalk.com/
+http://currentcoincreate.com/
 
 Write to us at info@currentcoin.io and contact@currentcoin.io.
 
