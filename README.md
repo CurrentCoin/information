@@ -50,6 +50,10 @@ https://t.me/currentcoinchannel
 Twitter
 https://twitter.com/CurrentCoin
 
+Email
+info@currentcoin.io 
+contact@currentcoin.io.
+
 Templates
 ------
 
