@@ -19,6 +19,8 @@ Use the prototype:
 
 http://currentcoincreate.com/
 
+CurrentCoin is an ERC20 token, based on Ethereum.
+
 Write to us at info@currentcoin.io and contact@currentcoin.io.
 
 Genesis
