@@ -34,28 +34,28 @@ Channels
 ------
 You can learn more about us, or reach out to us in person, through our channels.
 
-Medium
-https://medium.com/currentcoin
+Medium  
+https://medium.com/currentcoin  
 
-Youtube
-https://www.youtube.com/channel/UCHMeCp1gdcad88Lv5U6fdxw
+Youtube  
+https://www.youtube.com/channel/UCHMeCp1gdcad88Lv5U6fdxw  
 
-Discord
-https://discord.gg/8YQMWp
+Discord  
+https://discord.gg/8YQMWp  
 
-GitHub
-https://github.com/CurrentCoin
+GitHub  
+https://github.com/CurrentCoin  
 
-Telegram
-https://t.me/currentcoinchannel
+Telegram  
+https://t.me/currentcoinchannel  
 
-Twitter
-https://twitter.com/CurrentCoin
+Twitter  
+https://twitter.com/CurrentCoin  
 
-Email
+Email  
 info@currentcoin.io 
-contact@currentcoin.io.
-
+contact@currentcoin.io  
+  
 Templates
 ------
 
