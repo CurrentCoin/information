@@ -40,14 +40,8 @@ https://medium.com/currentcoin
 Youtube  
 https://www.youtube.com/channel/UCHMeCp1gdcad88Lv5U6fdxw  
 
-Discord  
-https://discord.gg/8YQMWp  
-
 GitHub  
 https://github.com/CurrentCoin  
-
-Telegram  
-https://t.me/currentcoinchannel  
 
 Twitter  
 https://twitter.com/CurrentCoin  
