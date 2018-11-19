@@ -13,7 +13,7 @@ https://currentcoin.io/#/
 
 Read the whitepaper:
 
-https://currentcoin.io/static/media/currentcoint_whitepaper.2e484792.pdf
+https://currentcoin.io/static/media/currentcoin_whitepaper.0d261d0f.pdf
 
 Use the prototype:
 
@@ -45,6 +45,9 @@ https://github.com/CurrentCoin
 
 Twitter  
 https://twitter.com/CurrentCoin  
+
+Telegram
+https://t.me/currentcoinchannel
 
 Email  
 info@currentcoin.io  
