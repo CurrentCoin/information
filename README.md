@@ -7,7 +7,7 @@ CurrentCoin is dedicated to providing fast and convenient digital services.
 
 Out contributors come from all over the world, but our home base is in San Francisco, California.
 
-Our ICO page:
+Our main page:
 
 https://currentcoin.io/#/
 
