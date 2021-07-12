@@ -22,7 +22,7 @@ Write to us at info@currentcoin.io and contact@currentcoin.io.
 Genesis
 ------
 
-We are working to bring convenient and effective solutions to market.
+We are working to bring convenient and effective solutions to market, with a focus on open sourcing our solutions.
 
 Software deployment and web services are difficult to use. We want to streamline the steps and improve the market, using smart contracts and the code behind the Ethereum network to optimize the experience & technology.
 
