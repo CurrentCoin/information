@@ -30,7 +30,7 @@ Channels
 ------
 You can learn more about us, or reach out to us in person, through our channels.
 
-Blog
+Blog  
 https://www.currentcoin.io/posts
 
 GitHub  
