@@ -15,7 +15,7 @@ Read the whitepaper:
 
 https://currentcoin.io/static/media/currentcoin_whitepaper.0d261d0f.pdf
 
-CurrentCoin is an ERC20 token, on the Ethereum network.
+CurrentCoin is an ERC20 token on the Ethereum network.
 
 Write to us at info@currentcoin.io and contact@currentcoin.io.
 
@@ -24,9 +24,7 @@ Genesis
 
 We are working to bring convenient and effective solutions to market.
 
-Software deployment and web services are difficult to use.
-
-We want to streamline the steps and capture the market opportunity, using smart contracts and the code behind the Ethereum network to optimize the experience and the technology.
+Software deployment and web services are difficult to use. We want to streamline the steps and improve the market, using smart contracts and the code behind the Ethereum network to optimize the experience & technology.
 
 Channels
 ------
