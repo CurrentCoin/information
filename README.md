@@ -11,9 +11,7 @@ Our main page:
 
 https://currentcoin.io/#/
 
-Read the whitepaper:
-
-https://currentcoin.io/static/media/currentcoin_whitepaper.0d261d0f.pdf
+Our GitHub repos are also active and being updated.
 
 CurrentCoin is an ERC20 token on the Ethereum network.
 
