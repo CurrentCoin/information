@@ -19,7 +19,7 @@ Our description on CoinGecko:
 
 https://www.coingecko.com/en/coins/currentcoin#markets
 
-Our GitHub repos are also active and being updated.
+Our GitHub is also active.
 
 CurrentCoin is an ERC20 token on the Ethereum network.
 
