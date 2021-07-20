@@ -28,6 +28,10 @@ Channels
 ------
 You can learn more about us, or reach out to us in person, through our channels.
 
+
+Medium  
+https://medium.com/currentcoin 
+
 Blog  
 https://www.currentcoin.io/posts
 
@@ -37,8 +41,11 @@ https://github.com/CurrentCoin
 Twitter  
 https://twitter.com/CurrentCoin  
 
-Medium  
-https://medium.com/currentcoin  
+Telegram
+https://t.me/currentcoinchannel
+
+Whitepaper
+https://www.currentcoin.io/currentcoin_whitepaper.pdf
 
 Email  
 info@currentcoin.io  
