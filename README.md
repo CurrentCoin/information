@@ -35,16 +35,16 @@ https://medium.com/currentcoin
 Blog  
 https://www.currentcoin.io/posts
 
-GitHub  
-https://github.com/CurrentCoin  
-
 Twitter  
 https://twitter.com/CurrentCoin  
 
-Telegram
+Telegram  
 https://t.me/currentcoinchannel
 
-Whitepaper
+GitHub  
+https://github.com/CurrentCoin  
+
+Whitepaper  
 https://www.currentcoin.io/currentcoin_whitepaper.pdf
 
 Email  
