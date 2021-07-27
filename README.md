@@ -54,5 +54,5 @@ https://github.com/CurrentCoin
 
 Email  
 info@currentcoin.io  
-contact@currentcoin.io  
+
   
