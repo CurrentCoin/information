@@ -29,7 +29,7 @@ CurrentCoin's ticker symbol, or abbreviation, is CUN.
 
 Write to us at info@currentcoin.io.
 
-Genesis
+Purpose
 ------
 
 We are working to bring convenient and effective solutions to market, with a focus on open sourcing our solutions.
