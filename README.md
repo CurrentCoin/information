@@ -5,7 +5,7 @@ Overview
 
 CurrentCoin is dedicated to providing fast and convenient digital services.
 
-Out contributors come from all over the world, but our home base is in San Francisco, California.
+Our contributors come from all over the world, but our home base is in San Francisco, California.
 
 Our main page:
 
@@ -23,7 +23,9 @@ Our GitHub is also active.
 
 CurrentCoin is an ERC20 token on the Ethereum network.
 
-Write to us at info@currentcoin.io and contact@currentcoin.io.
+CurrentCoin's ticker symbo, or abbreviation, is CUN.
+
+Write to us at info@currentcoin.io.
 
 Genesis
 ------
