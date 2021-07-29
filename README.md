@@ -23,7 +23,7 @@ Our GitHub is also active.
 
 CurrentCoin is an ERC20 token on the Ethereum network.
 
-CurrentCoin's ticker symbo, or abbreviation, is CUN.
+CurrentCoin's ticker symbol, or abbreviation, is CUN.
 
 Write to us at info@currentcoin.io.
 
